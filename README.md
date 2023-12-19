@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at IIT Gandhinagar and have a keen intrest in development.<br>
+I'm a student at IIT Gandhinagar and I have a keen intrest in development.<br>
 
 
 ## 🌐 Socials:
